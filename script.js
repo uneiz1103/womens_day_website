@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const backHomeBtn = document.getElementById("backHome");
     if (backHomeBtn) {
         backHomeBtn.addEventListener("click", function () {
-            window.location.href = "home.html";
+            window.location.href = "index.html";
         });
     }
 });
